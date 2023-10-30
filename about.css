@@ -69,3 +69,17 @@ html {
   }
 }
 
+#linkat{
+  color: black;
+  text-decoration: none;
+}
+
+#linkat a:hover{
+   color: blue;
+   text-decoration: underline;
+}
+
+.para{
+  font-family: helvetica; 
+}
+
